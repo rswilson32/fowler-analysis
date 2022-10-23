@@ -3,22 +3,10 @@
     <title>Fowler Museum Analysis</title>
     <link href="https://rswilson32.github.io/fowler-analysis/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io/fowler-analysis" />
-    <updated>2022-10-22T18:01:49-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Roger Wilson</name>
     </author>
     <id>https://rswilson32.github.io/fowler-analysis</id>
 
-    <entry>
-        <title>Welcome!</title>
-        <author>
-            <name>Roger Wilson</name>
-        </author>
-        <link href="https://rswilson32.github.io/fowler-analysis/welcome.html"/>
-        <id>https://rswilson32.github.io/fowler-analysis/welcome.html</id>
-
-        <updated>2022-10-22T18:01:49-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>

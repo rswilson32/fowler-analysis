@@ -9,17 +9,5 @@
         "name": "Roger Wilson"
     },
     "items": [
-        {
-            "id": "https://rswilson32.github.io/fowler-analysis/welcome.html",
-            "url": "https://rswilson32.github.io/fowler-analysis/welcome.html",
-            "title": "Welcome!",
-            "author": {
-                "name": "Roger Wilson"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-22T17:26:16-07:00",
-            "date_modified": "2022-10-22T18:01:49-07:00"
-        }
     ]
 }
