@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fowler Museum Analysis",
+    "description": "",
+    "home_page_url": "https://rswilson32.github.io/fowler-analysis",
+    "feed_url": "https://rswilson32.github.io/fowler-analysis/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Roger Wilson"
+    },
+    "items": [
+    ]
+}
