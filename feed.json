@@ -9,35 +9,5 @@
         "name": "Roger Wilson"
     },
     "items": [
-        {
-            "id": "https://rswilson32.github.io/fowler-analysis/by-region.html",
-            "url": "https://rswilson32.github.io/fowler-analysis/by-region.html",
-            "title": "By Region",
-            "summary": "maps",
-            "content_html": "<p>maps</p>",
-            "image": "https://rswilson32.github.io/fowler-analysis/media/posts/4/map.png",
-            "author": {
-                "name": "Roger Wilson"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-31T14:23:36-07:00",
-            "date_modified": "2022-10-31T14:23:36-07:00"
-        },
-        {
-            "id": "https://rswilson32.github.io/fowler-analysis/by-donor.html",
-            "url": "https://rswilson32.github.io/fowler-analysis/by-donor.html",
-            "title": "By Donor",
-            "summary": "We'll look at the 4 most generous donors",
-            "content_html": "<p>We'll look at the 4 most generous donors</p>",
-            "image": "https://rswilson32.github.io/fowler-analysis/media/posts/3/credit.png",
-            "author": {
-                "name": "Roger Wilson"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-31T14:20:37-07:00",
-            "date_modified": "2022-10-31T14:20:37-07:00"
-        }
     ]
 }

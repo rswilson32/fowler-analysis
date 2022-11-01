@@ -3,54 +3,10 @@
     <title>Fowler Museum Analysis</title>
     <link href="https://rswilson32.github.io/fowler-analysis/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io/fowler-analysis" />
-    <updated>2022-10-31T14:23:36-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Roger Wilson</name>
     </author>
     <id>https://rswilson32.github.io/fowler-analysis</id>
 
-    <entry>
-        <title>By Region</title>
-        <author>
-            <name>Roger Wilson</name>
-        </author>
-        <link href="https://rswilson32.github.io/fowler-analysis/by-region.html"/>
-        <id>https://rswilson32.github.io/fowler-analysis/by-region.html</id>
-
-        <updated>2022-10-31T14:23:36-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rswilson32.github.io/fowler-analysis/media/posts/4/map.png" alt="" />
-                    maps
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rswilson32.github.io/fowler-analysis/media/posts/4/map.png" alt="" />
-                <p>maps</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>By Donor</title>
-        <author>
-            <name>Roger Wilson</name>
-        </author>
-        <link href="https://rswilson32.github.io/fowler-analysis/by-donor.html"/>
-        <id>https://rswilson32.github.io/fowler-analysis/by-donor.html</id>
-
-        <updated>2022-10-31T14:20:37-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rswilson32.github.io/fowler-analysis/media/posts/3/credit.png" alt="" />
-                    We'll look at the 4 most generous donors
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rswilson32.github.io/fowler-analysis/media/posts/3/credit.png" alt="" />
-                <p>We'll look at the 4 most generous donors</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
